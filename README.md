@@ -32,22 +32,22 @@ Native md syntax
 
 You can create a div in order to control its position:
 ```
-<div style="text-align: center">
+<p align="center">
     <img width="200" src="./images/mr__krabs.jpg">
-</div>
+</p>
 ```
-
-<div style="text-align: center">
-    <img width="200" src="./images/mr__krabs.jpg">
-</div>
 
 <p align="center">
     <img width="200" src="./images/mr__krabs.jpg">
 </p>
 
-<div style="text-align: left">
+<p align="right">
     <img width="200" src="./images/mr__krabs.jpg">
-</div>
+</p>
+
+<p align="left">
+    <img width="200" src="./images/mr__krabs.jpg">
+</p>
 
 
 > one carrot
