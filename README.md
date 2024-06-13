@@ -30,7 +30,7 @@ Native md syntax
 
 <img src="./images/bob.jpg" width="100">
 
-You can create a div in order to control its position:
+You can create a paragraph `<p>` in order to control its position:
 ```
 <p align="center">
     <img width="200" src="./images/mr__krabs.jpg">
