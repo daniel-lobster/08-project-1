@@ -41,9 +41,9 @@ You can create a div in order to control its position:
     <img width="200" src="./images/mr__krabs.jpg">
 </div>
 
-<div style="text-align: right">
+<p align="center">
     <img width="200" src="./images/mr__krabs.jpg">
-</div>
+</p>
 
 <div style="text-align: left">
     <img width="200" src="./images/mr__krabs.jpg">
